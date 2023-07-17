@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving)
-![header](https://capsule-render.vercel.app/api?text=Hello%imhari!)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=cylinder)
+![header](https://capsule-render.vercel.app/api?text=Howareyou!)
+</div>
 **harikang/harikang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
