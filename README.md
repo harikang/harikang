@@ -6,9 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning NLP 
-- 💬 Ask me about Whatever you want
-- 📫 How to reach me: hrakng01@yonsei.ac.kr
-- 😄 Pronouns: keep working hard
-- ⚡ Fun fact: 
+- 🌱 I’m Hari Kang. 
+- 💬 I'm Korean.
+- 📫 My favorites : fried food
+- 😄 
 
