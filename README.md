@@ -22,7 +22,7 @@ I'm a passionate AI developer with experience in researching AI Modeling and AI 
 - **Tools:** Git, Docker, Kubernetes
 - **Databases:** MySQL, SQLites
 
-## Main Project
+## Recent Main Project
 
 - [**Project 1**](https://github.com/yaicon-4th-team-trr/yaicon-tight-report-review): [YAI] Automated Report Evaluation Model Tuning Project.
 - [**Project 2**](https://github.com/Agarang/AI): This project offers baby face photos from 3D ultrasound images of fetuses and chatbot service. 
@@ -30,7 +30,7 @@ I'm a passionate AI developer with experience in researching AI Modeling and AI 
 ## Papers
 
 - [**Paper 1**](https://github.com/harikang/GRUWITHAUGMENTATION): Human Activity Recognition based on the GRU with Augmented Wi-Fi CSI Signals.
-- [**Paper 2**](https://github.com/harikang/prunedAttentionGRU): Human Activity Recognition through Augmented Wi-Fi CSI Signals using Lightweight Attention-GRU model using Pruning
+- [**Paper 2**](https://github.com/harikang/prunedAttentionGRU): Not yet completed
   
 ## Contact Me
 
