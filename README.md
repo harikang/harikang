@@ -30,7 +30,7 @@ I'm a passionate AI developer with experience in researching AI Modeling and AI 
 ## Papers
 
 - [**Paper 1**](https://github.com/harikang/GRUWITHAUGMENTATION): Human Activity Recognition based on the GRU with Augmented Wi-Fi CSI Signals.
-- [**Paper 2**](https://github.com/harikang/prunedAttentionGRU): Not yet completed
+- [**Paper 2**](https://github.com/harikang/prunedAttentionGRU): Human Activity Recognition through Augmented WiFi CSI Signals by Lightweight AttentionGRU
   
 ## Contact Me
 
