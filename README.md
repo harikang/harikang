@@ -36,7 +36,8 @@ I'm a passionate AI developer with experience in researching AI Modeling and AI 
 
 - Email: [hariver1220@yonsei.ac.kr](hariver1220@yonsei.ac.kr)
 - Blog: [blog.naver.com/hariver1220](blog.naver.com/hariver1220)
-
+- Blog: [https://kang-et-al.tistory.com](https://kang-et-al.tistory.com)
+  
 ## More TMI
 
 - 🎸 I love visiting cozy and hip cafes.
